@@ -6,16 +6,16 @@
 1. **Overview.**
 
 
-    - [ ] Reinforcement Learning 
+    - [x] Reinforcement Learning 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_1.pdf)] 
     [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/DRL/DRL.pdf)] 
     [[Video (in Chinese)](https://youtu.be/vmkRMvhCW5c)].
 
-    - [ ] Value-Based Learning 
+    - [x] Value-Based Learning 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_2.pdf)] 
     [[Video (in Chinese)](https://youtu.be/jflq6vNcZyA)].
 
-    - [ ] Policy-Based Learning 
+    - [x] Policy-Based Learning 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_3.pdf)] 
     [[Video (in Chinese)](https://youtu.be/qI0vyfR2_Rc)].
 
